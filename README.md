@@ -1,2 +1,1 @@
-# Calculator
-simple calculator program
+Simple calculator program
